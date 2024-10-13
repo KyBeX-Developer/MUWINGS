@@ -32,3 +32,11 @@
 - Tiger Bow +7 a +9
 - Silver Bow +7 a +9
 - Battle Scepter +7 a +9
+  
+## BOX OF HEAVEN
+- Guardian Angel
+- Imp
+- Horn of Uniria
+- Jewel of Bless
+- Jewel of Soul
+- Jewel of Chaos

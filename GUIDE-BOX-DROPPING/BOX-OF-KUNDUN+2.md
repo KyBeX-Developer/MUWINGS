@@ -39,9 +39,9 @@
 - Kite Shield Excellent 1~3 adds
 - Skull Shield Excellent 1~3 adds
   # Acessórios:
-  - Pendant of Ice Excellent 1~3 adds
-  - Pendant of Wind Excellent 1~3 adds
-  - Pendant of Fire Excellent 1~3 adds
-  - Pendant of Water Excellent 1~3 adds
-  - Pendant of Abillity Excellent 1~3 adds
-  - Pedant of Lighting Excellent 1~3 adds
+  - Pendant of Ice Excellent 1 add
+  - Pendant of Wind Excellent 1 add
+  - Pendant of Fire Excellent 1 add
+  - Pendant of Water Excellent 1 add
+  - Pendant of Abillity Excellent 1 add
+  - Pedant of Lighting Excellent 1 adds

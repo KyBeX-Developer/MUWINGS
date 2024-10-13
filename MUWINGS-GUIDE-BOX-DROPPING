@@ -1,13 +1,13 @@
 Este guia irá orientar todos os jogadores sobre o drop de todos os tipos de BOX disponíveis no nosso servidor Mu WingS.
 
-Entendi! Aqui está o formato correto para exibição no GitHub, sem o bloco de código:
 
----
+Se você está inserindo o texto em um arquivo normal sem a formatação de Markdown (como em um arquivo de texto simples ou em um comentário), você pode usar a seguinte formatação, sem a necessidade de usar crases ou outros delimitadores:
 
-## **BOX OF LUCK**
 
-- **Zen**
-- **Conjuntos:**
+BOX OF LUCK
+
+- Zen
+- Conjuntos:
   - Leather +7 a +9
   - Bronze +7 a +9
   - Scale +7 a +9
@@ -19,8 +19,7 @@ Entendi! Aqui está o formato correto para exibição no GitHub, sem o bloco de 
   - Silk +7 a +9
   - Wind +7 a +9
   - Light +7 a +9
-
-### **Armas**
+Armas:
 - Katana Sword +7 a +9
 - Blade Sword +7 a +9
 - Giant Sword +7 a +9
@@ -33,4 +32,7 @@ Entendi! Aqui está o formato correto para exibição no GitHub, sem o bloco de 
 - Tiger Bow +7 a +9
 - Silver Bow +7 a +9
 - Battle Scepter +7 a +9
+```
+
+
 

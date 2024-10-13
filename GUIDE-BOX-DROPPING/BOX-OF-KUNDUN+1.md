@@ -30,9 +30,9 @@
 - Small Shield Excellent 1~3 Adds
 - Horn Shield Excellent 1~3 Adds
 # Acessórios 
-- Ring of Ice Excellent 1~3 Adds
-- Ring of Poison Excellent 1~3 Adds
-- Ring of Fire Excellent 1~3 Adds
-- Ring of Wind Excellent 1~3 Adds
-- Ring of Earth Excellent 1~3 Adds
-- Ring of Magic Excellent 1~3 Adds
+- Ring of Ice Excellent 1 Add
+- Ring of Poison Excellent 1 Add
+- Ring of Fire Excellent 1 Add
+- Ring of Wind Excellent 1 Add
+- Ring of Earth Excellent 1 Add
+- Ring of Magic Excellent 1 Add
